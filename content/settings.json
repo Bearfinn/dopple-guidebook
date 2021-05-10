@@ -1,0 +1,10 @@
+{
+  "title": "Dopple Guidebook",
+  "url": "https://dopple.finance",
+  "logo": {
+    "light": "/logo-light.svg",
+    "dark": "/logo-dark.svg"
+  },
+  "github": "bearfinn/dopple-guidebook",
+  "twitter": "@dopplefi"
+}
