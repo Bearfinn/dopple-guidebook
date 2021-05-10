@@ -2,8 +2,8 @@
   "title": "Dopple Guidebook",
   "url": "https://dopple.finance",
   "logo": {
-    "light": "/logo-light.svg",
-    "dark": "/logo-dark.svg"
+    "light": "index",
+    "dark": "index"
   },
   "github": "bearfinn/dopple-guidebook",
   "twitter": "@dopplefi"
